@@ -12,7 +12,15 @@
     <table border="5" cellpadding="5" width="100">
       <! I am Very new to digital softwares and am excited to learn more -->
       <hr>
-      <h2>list</h2>
+      <h2> Here is some of my work</h2>
+      <img src="elephant.jpg">
+      <p><sup>Elephant painting 2018></sup><p>
+      <img src="../IMG_2944.heic">
+      <p><sup> Baby Rattle Charcoal Drawing 2021</sup><p>
+      <img src=(IMG_6934.jpg)>
+    <p><sup>Rainy Beach 2019</sup><p>
+
+      <h2>Favorite Foods</h2>
       <ul>
                 <li> Alfredo pasta </li>
                 <li> Chocolate</li>
@@ -24,6 +32,8 @@
                 <li> Truffle Fries</li>
                 <li> Pickles</li> 
             </ul>
+            <hr>
+            <h2>Favorite Music</h2>
   <tr>
     <th>Artisit</th>
     <th>song</th>
@@ -39,6 +49,18 @@
     <td>If we were Vampires ft wesley shultz</td>
     <td>Cape Elizabeth</td>
   </tr>
+    <tr>
+    <td> Jimmy Buffet</td>
+    <td>Come Monday</td>
+    <td>Cheesebuger In Paradise</td>
+  </tr>
 </table>
+ <hr>
+  <h1> Something I believe every person that breathes needs to see</h1>
+  
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/FvwtMwwV25Q?si=3vX7OVXiuvU15KiX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <p><sup>Taylor Swift Reputation Stadium tour -<em>I did something bad</em></sup> </p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/D-UmfqFjpl0?si=Cr0Uug-Yw9BqSMju" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <p><sup>Ha BA De Ga Gah</sup></p>
 </body>
 </html>
